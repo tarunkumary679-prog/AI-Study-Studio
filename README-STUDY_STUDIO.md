@@ -1,4 +1,4 @@
-# AI Study Studio 📚✨
+# AI Study Studio 
 
 > A SwiftUI-based educational iOS application designed to make learning easier through structured notes, visual explanations, diagrams, flowcharts, and quick revision.
 
@@ -32,7 +32,7 @@ The current version is implemented as a **single-file SwiftUI project (`ContentV
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -46,7 +46,7 @@ The main objectives of this project are:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. `/handwritten`
 
@@ -182,7 +182,7 @@ Produces a compact revision-oriented summary of the selected topic.
 
 ---
 
-## 🧩 Project Architecture
+## Project Architecture
 
 The current project intentionally keeps the implementation simple and suitable for an academic lab project.
 
@@ -212,7 +212,7 @@ ContentView.swift
 
 ---
 
-## 📱 User Flow
+## User Flow
 
 ```text
 Launch Application
@@ -230,7 +230,7 @@ Copy Notes / Review
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Requirements
 
@@ -251,7 +251,7 @@ Copy Notes / Review
 
 ---
 
-## 💡 Example Usage
+##  Example Usage
 
 ### Topic: Photosynthesis
 
@@ -302,7 +302,7 @@ End
 
 ---
 
-## 🎨 UI Design
+## UI Design
 
 The application uses a simple, student-focused interface.
 
@@ -321,7 +321,7 @@ The interface is designed to keep the focus on **learning rather than unnecessar
 
 ---
 
-## 🔬 Academic Demonstration
+##  Academic Demonstration
 
 This project demonstrates several important concepts of iOS development:
 
@@ -340,7 +340,7 @@ This project demonstrates several important concepts of iOS development:
 
 ---
 
-## ⚠️ Current Limitations
+## Current Limitations
 
 The current version is an **academic prototype** and intentionally uses a local Swift-based content engine.
 
@@ -357,7 +357,7 @@ These limitations are intentional opportunities for future development.
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 The application can be extended into a full AI-powered learning platform.
 
@@ -399,7 +399,7 @@ The application can be extended into a full AI-powered learning platform.
 
 ---
 
-## 🔐 AI Integration Note
+##  AI Integration Note
 
 For a production version, an AI API key should **not** be embedded directly inside the iOS application.
 
@@ -421,7 +421,7 @@ This keeps sensitive API credentials outside the client application.
 
 ---
 
-## 📂 Suggested Repository Structure
+## Suggested Repository Structure
 
 A future multi-file version could use:
 
@@ -452,7 +452,7 @@ The current academic version keeps these concepts together in a single `ContentV
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Basic testing can be performed using topics such as:
 
@@ -473,7 +473,7 @@ For each topic, different learning modes can be selected to verify the UI and re
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, the following skills are demonstrated:
 
@@ -487,7 +487,7 @@ Through this project, the following skills are demonstrated:
 
 ---
 
-## 👨‍🏫 Project Guidance
+## Project Guidance
 
 **Developed by:**  
 **Tarun Kumar Yadav**
@@ -501,7 +501,7 @@ B.Tech — 2nd Year
 
 ---
 
-## 📄 Project Status
+## Project Status
 
 **Status:** Academic Prototype / iOS Lab Project
 
@@ -509,7 +509,7 @@ The current release focuses on the core learning experience, UI design, and the 
 
 ---
 
-## 🙌 Acknowledgement
+## Acknowledgement
 
 I would like to express my sincere gratitude to **Anjali Srivastava**, my iOS Lab Instructor, for her guidance and support during the development of this project.
 
@@ -517,7 +517,7 @@ This project provided an opportunity to apply SwiftUI and iOS development concep
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 **AI Study Studio** is a student-focused iOS learning assistant concept that brings multiple learning formats into one application.
 
@@ -531,7 +531,7 @@ The project establishes a foundation for a future AI-powered educational applica
 
 ---
 
-## 📜 License
+##  License
 
 This project was created as an academic B.Tech 2nd-year iOS Lab project.
 
